@@ -23,11 +23,11 @@ This capstone project course will give you a taste of what data scientists go th
 - Interactive Visual Analytics with Folium
 - Plotly Dash
 
-## Module 4
+## [Module 4]/https://github.com/luis-c2255/Project_Capstone_IBM_SpaceX/tree/main/Module%204)
 
 - Machine Learning Prediction
 
-## Module 5
+## [Module 5](https://github.com/luis-c2255/Project_Capstone_IBM_SpaceX/blob/main/Data_Report_SpaceX.pdf)
 
 - Present your Data-Driven Insights with Presentation
 
